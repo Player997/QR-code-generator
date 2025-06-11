@@ -19,7 +19,7 @@ A sleek and responsive QR Code Generator web application built using **HTML**, *
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Player997/QR-code-generator.git
-````
+```
 
 2. **Navigate to the project folder:**
 
