@@ -42,6 +42,9 @@ qr-code-generator/
 ├── script.js          # QR code generation logic
 ├── README.md          # This documentation
 ```
+## Live Demo
+
+Check out the demo:(https://player997.github.io/QR-code-generator/index.html)
 
 ---
 
